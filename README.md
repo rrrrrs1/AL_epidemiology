@@ -7,7 +7,7 @@ This repository contains R scripts for analysing acute leukaemia epidemiology da
 ## Project Overview
 
 This analysis examines epidemiological patterns and survival outcomes of acute leukaemia in China, stratified by:
-- Leukaemia subtypes (AML, APL, ALL, and other forms)
+- Leukaemia subtypes (non-APL AML, APL, ALL, and other forms)
 - Age groups (child vs. adult populations, with specific analyses for 0-14 and 0-19 age ranges)
 - Time periods (2016-2018 vs. 2019-2020)
 
