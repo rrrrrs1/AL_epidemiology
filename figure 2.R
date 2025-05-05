@@ -1,6 +1,6 @@
 # Set working directory and load source file
 setwd("C:\\Data\\rms\\data\\2412_YW")
-source("21_source_paper_sup_changeage.R", encoding = "UTF-8")
+source("source.R", encoding = "UTF-8")
 
 #------------------------------------------------------------
 # Function definitions for survival plot generation

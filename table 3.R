@@ -1,8 +1,7 @@
 # Set working directory and load required libraries
 setwd("C:\\Data\\rms\\data\\2412_YW")
 library('mice')
-source("21_source_paper_sup_changeage.R", encoding = "UTF-8")
-
+source("source.R", encoding = "UTF-8")
 #-----------------------------------------------------------------------------
 # Table 3: Univariate Cox Regression Analysis
 #-----------------------------------------------------------------------------
