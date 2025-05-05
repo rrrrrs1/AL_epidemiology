@@ -115,7 +115,6 @@ The analysis uses several data files (not included in the repository):
 - Multiple imputation for handling missing clinical data
 - Categorisation of laboratory values based on clinical thresholds
 - Bonferroni correction for multiple comparisons
-- Age-period-cohort analysis approaches
 
 ## Output
 
